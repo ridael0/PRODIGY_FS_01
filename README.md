@@ -7,10 +7,11 @@ Frontend built with **React 19** + **Tailwind CSS 4** + **Radix UI**, backend po
 ---
 
 ## 📂 Project Structure
-root/
+```
+PRODIGY_FS_01/
 │
 ├── frontend/ # React.js client
-│ ├── public/
+│ ├── public/   
 │ ├── src/
 │ ├── package.json
 │ └── ...
@@ -23,6 +24,7 @@ root/
 │ └── ...
 │
 └── README.md
+```
 
 ## 🚀 Features
 - ✅ **Password hashing** with `bcrypt`
@@ -91,3 +93,6 @@ npm start
 cd frontend
 npm run dev
 ```
+## ✨ Author
+### Mohamed Rida Elaaich
+#### Full-stack developer passionate about secure web applications.
