@@ -51,8 +51,10 @@ react-dom ^19.1.0
 react-router-dom ^7.7.0
 tailwind-merge ^3.3.1
 tailwindcss ^4.1.11
+```
 
 ### **Backend**
+```
 bcrypt ^6.0.0
 cors ^2.8.5
 express ^5.1.0
