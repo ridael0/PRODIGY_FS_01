@@ -38,6 +38,7 @@ PRODIGY_FS_01/
 ## 🛠 Dependencies
 
 ### **Frontend**
+```
 @radix-ui/react-label ^2.1.7
 @radix-ui/react-slot ^1.2.3
 @tailwindcss/vite ^4.1.11
@@ -57,7 +58,7 @@ cors ^2.8.5
 express ^5.1.0
 jsonwebtoken ^9.0.2
 mongoose ^8.16.4
-
+```
 ---
 
 ## 🛠 Prerequisites
